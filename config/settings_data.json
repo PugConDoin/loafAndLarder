@@ -1,0 +1,926 @@
+{
+  "current": {
+    "color_body_bg": "#ffffff",
+    "color_body_text": "#333333",
+    "color_primary_color": "#333333",
+    "color_primary_button_text": "#e9aa00",
+    "color_sale_badge": "#c8493f",
+    "color_borders": "#e8e8e8",
+    "color_form": "#f4f4f4",
+    "color_image_overlay_text": "#ffffff",
+    "color_image_overlay": "#333333",
+    "image_overlay_opacity": 25,
+    "type_header_font": "joanna_nova_n7",
+    "type_header_base_size": "26px",
+    "type_base_font": "joanna_sans_nova_n2",
+    "type_base_size": "16px",
+    "type_button_base_size": "16px",
+    "type_navigation_base_size": "16px",
+    "cart_enable_ajax": true,
+    "show_breadcrumb_nav": true,
+    "share_image": "shopify:\/\/shop_images\/Full_Colour_Logo_26e93373-f997-4bf7-8afb-2da40ea6cace.jpg",
+    "social_facebook_link": "https:\/\/www.facebook.com\/LoafAndLarder\/",
+    "social_twitter_link": "https:\/\/twitter.com\/LarderLoaf",
+    "social_pinterest_link": "",
+    "social_instagram_link": "https:\/\/www.instagram.com\/loaf_and_larder\/",
+    "social_snapchat_link": "",
+    "social_google_plus_link": "",
+    "social_tumblr_link": "",
+    "social_youtube_link": "",
+    "social_vimeo_link": "",
+    "social_fancy_link": "",
+    "main_blog": "",
+    "share_facebook": true,
+    "share_twitter": true,
+    "share_pinterest": false,
+    "favicon": "shopify:\/\/shop_images\/Loaf-_-Larder-Favicon_998c0827-e468-44a7-87b3-7c35f37f3691.png",
+    "checkout_header_image": "",
+    "checkout_logo_image": "shopify:\/\/shop_images\/Full_Colour_Logo.jpg",
+    "checkout_logo_position": "left",
+    "checkout_logo_size": "medium",
+    "checkout_body_background_image": "",
+    "checkout_body_background_color": "#fff",
+    "checkout_input_background_color_mode": "white",
+    "checkout_sidebar_background_image": "",
+    "checkout_sidebar_background_color": "#fafafa",
+    "checkout_heading_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+    "checkout_body_font": "Garamond, Baskerville, 'Baskerville Old Face', 'Hoefler Text', 'Times New Roman'",
+    "checkout_accent_color": "#e9aa00",
+    "checkout_button_color": "#333333",
+    "checkout_error_color": "#e32c2b",
+    "sections": {
+      "footer": {
+        "type": "footer",
+        "blocks": {
+          "footer-0": {
+            "type": "menu",
+            "settings": {
+              "title": "Links",
+              "menu": "footer"
+            }
+          },
+          "1584550021586": {
+            "type": "text",
+            "settings": {
+              "title": "Loaf & Larder from those nice folk at Olives Et Al",
+              "richtext": "<p>Looking for Great Food and other Essentials? Look no further than Loaf &amp; Larder, packed with all of the essentials plus a few little luxuries thrown in for good measure. What&#x27;s more, we&#x27;re always adding new products.<\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "footer-0",
+          "1584550021586"
+        ],
+        "settings": {
+          "show_payment_icons": true
+        }
+      },
+      "header": {
+        "type": "header",
+        "settings": {
+          "logo": "shopify:\/\/shop_images\/Full_Colour_Logo.jpg",
+          "logo_max_width": 165,
+          "show_announcement": true,
+          "home_page_only": false,
+          "announcement_text": "Welcome to LOAF & LARDER - The Online Deli from Olives Et Al - Treats, Gifts & Fine Ingredients",
+          "tagline": "<p><strong>Deli to Door: Essentials and More. Anywhere <br\/>Another lovely thing from us nice folk at Olives Et Al<br\/><\/strong>Deli: 01258 474 303 | Mob: 07970 163 558 | shop@loafandlarder.com<\/p>"
+        }
+      },
+      "sidebar": {
+        "type": "sidebar",
+        "settings": {
+          "main_menu_link_list": "main-menu"
+        }
+      },
+      "collection-template": {
+        "type": "collection-template",
+        "settings": {
+          "vendor_show": false,
+          "collection_sort_enable": true,
+          "collection_tag_enable": false,
+          "grid": 5
+        }
+      },
+      "1584534757322": {
+        "type": "collection-list",
+        "disabled": true,
+        "blocks": {
+          "1584534757322-0": {
+            "type": "collection",
+            "settings": {
+              "collection": "olives"
+            }
+          },
+          "1584534757322-1": {
+            "type": "collection",
+            "settings": {
+              "collection": "dressings-marinades"
+            }
+          },
+          "1584536190752": {
+            "type": "collection",
+            "settings": {
+              "collection": "nuts"
+            }
+          },
+          "1584536184618": {
+            "type": "collection",
+            "settings": {
+              "collection": "fruit-salad-veg"
+            }
+          },
+          "1584534757322-2": {
+            "type": "collection",
+            "settings": {
+              "collection": "wine-alcohol"
+            }
+          },
+          "1584536201792": {
+            "type": "collection",
+            "settings": {
+              "collection": "lapsnacks"
+            }
+          }
+        },
+        "block_order": [
+          "1584534757322-0",
+          "1584534757322-1",
+          "1584536190752",
+          "1584536184618",
+          "1584534757322-2",
+          "1584536201792"
+        ],
+        "settings": {
+          "title": "Here's some of the good stuff...",
+          "grid": 3
+        }
+      },
+      "featured-content": {
+        "type": "featured-content",
+        "settings": {
+          "section_title": "Talk about your brand",
+          "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
+          "text_size": "medium"
+        }
+      },
+      "1584550436260": {
+        "type": "slideshow",
+        "blocks": {
+          "1584550436260-1": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/olives_ranges43157.jpg",
+              "alignment": "center center",
+              "overlay_opacity": 40,
+              "color_text": "#ffffff",
+              "text_alignment": "center",
+              "slide_heading": "Your Favourite Olives Et Al Products & More",
+              "button_label": "CHOOSE YOURS NOW",
+              "button_link": "shopify:\/\/collections\/olives-et-al"
+            }
+          },
+          "1584550962369": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Cooking-Banner.jpg",
+              "alignment": "center center",
+              "overlay_opacity": 40,
+              "color_text": "#ffffff",
+              "text_alignment": "center",
+              "slide_heading": "\"Your service is among the best - good packaging, easy to use website, timely delivery, and excellent products.\"",
+              "button_label": ""
+            }
+          },
+          "1590255488440": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/olivesetal_recipes41105.jpg",
+              "alignment": "center center",
+              "overlay_opacity": 40,
+              "color_text": "#ffffff",
+              "text_alignment": "center",
+              "slide_heading": "\"We absolutely loved our order, it was superb and arrived in record time\"",
+              "button_label": ""
+            }
+          }
+        },
+        "block_order": [
+          "1584550436260-1",
+          "1584550962369",
+          "1590255488440"
+        ],
+        "settings": {
+          "slider_height": "small",
+          "slider_home_auto": true,
+          "slider_home_rate": 5,
+          "slider_home_transition": "slide",
+          "text_size": "small"
+        }
+      },
+      "product-template": {
+        "type": "product-template",
+        "settings": {
+          "product_quantity_enable": true,
+          "vendor_show": false,
+          "social_sharing_products": true,
+          "product_description_position": "right",
+          "show_extra_tab": false,
+          "extra_tab_content": "about-us",
+          "product_image_zoom_type": "lightbox",
+          "enable_payment_button": false,
+          "add_to_cart_width": "full_width"
+        }
+      },
+      "product-recommendations": {
+        "type": "product-recommendations",
+        "settings": {
+          "show_product_recommendations": true,
+          "heading": "You may also like",
+          "vendor_show": false
+        }
+      },
+      "list-collections-template": {
+        "type": "list-collections-template",
+        "settings": {
+          "display_type": "all",
+          "sort": "alphabetical",
+          "grid": 4
+        }
+      },
+      "1585238759890": {
+        "type": "collection-list",
+        "disabled": true,
+        "blocks": {
+          "1585238759890-0": {
+            "type": "collection",
+            "settings": {
+              "collection": "ajar-of"
+            }
+          },
+          "1585238759890-1": {
+            "type": "collection",
+            "settings": {
+              "collection": "captain-tiptoes"
+            }
+          },
+          "1585238875854": {
+            "type": "collection",
+            "settings": {
+              "collection": "corkers"
+            }
+          },
+          "1585238759890-2": {
+            "type": "collection",
+            "settings": {
+              "collection": "dorset-chilli-shop"
+            }
+          },
+          "1585238783524": {
+            "type": "collection",
+            "settings": {
+              "collection": "heinz"
+            }
+          },
+          "1585238802774": {
+            "type": "collection",
+            "settings": {
+              "collection": "kernow-chocolate-co"
+            }
+          },
+          "1585238838120": {
+            "type": "collection",
+            "settings": {
+              "collection": "longmans"
+            }
+          },
+          "1585238889306": {
+            "type": "collection",
+            "settings": {
+              "collection": "olives-et-al"
+            }
+          },
+          "1585238845728": {
+            "type": "collection",
+            "settings": {
+              "collection": "tracklements"
+            }
+          }
+        },
+        "block_order": [
+          "1585238759890-0",
+          "1585238759890-1",
+          "1585238875854",
+          "1585238759890-2",
+          "1585238783524",
+          "1585238802774",
+          "1585238838120",
+          "1585238889306",
+          "1585238845728"
+        ],
+        "settings": {
+          "title": "Shop by Brand",
+          "grid": 3
+        }
+      },
+      "1586000141162": {
+        "type": "featured-content",
+        "disabled": true,
+        "settings": {
+          "section_title": "CREATING, SOURCING & SUPPLYING GREAT FOOD FOR OVER 27 YEARS...",
+          "text": "<p><em>Loaf &amp; Larder has been created by us lovely folk at Olives Et Al down here in the heart of Dorset to help get the food we have access to out to as many people as possible: Deli to Door. Essentials and More. Anywhere.<\/em><\/p><p> <\/p><p><strong>WHAT DO WE DO?<\/strong><\/p><p><em>- <\/em><em><strong>Restaurant, Gastro Pub and Deli Quality Foods<\/strong><\/em><em> – direct to your door<\/em><\/p><p><em>- <\/em><em><strong>Full Range of Products to Suit Individuals &amp; Large Families<\/strong><\/em><em> - delivered quickly, everywhere<\/em><\/p><p><em>- <\/em><em><strong>Simple Shopping for Essentials, Staples and Food - <\/strong><\/em><em>to brighten the soul<\/em><\/p><p> <\/p><p><strong>FRONTLINE 999 DISCOUNT<\/strong><\/p><p><em>Working on the Frontline? Use Discount Code 999 at the checkout and get your discount.<\/em><\/p><p> <\/p><p><strong>WHY SHOP WITH US?<\/strong><\/p><p><em>1. We’re a local business adapting to safeguard the long term prospects of our staff<\/em><\/p><p><em>2. We’re filling a gap in home delivery of basics and essentials as well as food to cheer the soul<\/em><\/p><p><em>3. We’re actively supporting those on the Frontline<\/em><\/p><p><em> <\/em><\/p><p><em>Please give us a call if there’s anything else you&#x27;d like to see us doing – we have access to almost any product imaginable…<\/em><\/p>",
+          "text_size": "medium"
+        }
+      },
+      "1586003919985": {
+        "type": "map",
+        "settings": {
+          "heading": "The Loaf & Larder Store",
+          "address": "<p><\/p><p>OLIVES ET AL<\/p><p>North Dorset Business Park<\/p><p>Sturminster Newton<\/p><p>Dorset, DT10 2GA<\/p><p><\/p><p>Call 01258 474 303 or 07970 163 558 for all enquiries.<\/p>",
+          "map_address": "Olives Et Al, 1 North Dorset Business Park, Sturminster Newton, Dorset, DT10 2GA",
+          "button_text": "Get directions",
+          "show_pin": true,
+          "api_key": "",
+          "background_image": "shopify:\/\/shop_images\/Screen_Shot_2020-04-04_at_13.43.07.png",
+          "background_image_position": "center center"
+        }
+      },
+      "announcement-bar": {
+        "type": "announcement-bar",
+        "settings": {
+          "show_announcement": false,
+          "home_page_only": true,
+          "announcement_bar_color": "#e9aa00",
+          "announcement_bar_text_color": "#333333",
+          "text": "Click for Latest Easter Period Opening and Delivery Schedule",
+          "link": "shopify:\/\/policies\/shipping-policy"
+        }
+      },
+      "1588245340049": {
+        "type": "featured-product",
+        "disabled": true,
+        "settings": {
+          "featured_product": "gift-card",
+          "product_quantity_enable": false,
+          "vendor_show": true,
+          "social_sharing_products": true,
+          "enable_payment_button": false,
+          "add_to_cart_width": "regular"
+        }
+      },
+      "1588327507140": {
+        "type": "featured-blog",
+        "disabled": true,
+        "settings": {
+          "title": "News from the Larder",
+          "blog": "news",
+          "post_limit": 3,
+          "blog_show_date": true,
+          "blog_show_author": false,
+          "blog_show_image": false,
+          "blog_show_excerpt": true,
+          "show_view_all": true
+        }
+      },
+      "1590509232538": {
+        "type": "featured-row",
+        "settings": {
+          "image": "shopify:\/\/shop_images\/Estia_Confetti.jpg",
+          "layout": "left",
+          "title": "Look who's coming to dinner...",
+          "text": "<p><a href=\"\/products\/estia-no-7-london-dry-gin-bottle-70cl\" title=\"Gin | Ěstía No.7 London Dry Gin - Bottle 70cl\">Our <strong>AWARD WINNING Olive Brine Gin <\/strong><\/a>makes the perfect Dinner partner - easy to be beside, elegant, sophisticated and will completely forgive you in the morning...<\/p><p><a href=\"\/products\/estia-no-7-london-dry-gin-bottle-70cl\" title=\"Gin | Ěstía No.7 London Dry Gin - Bottle 70cl\">Handcrafted from Greek Olive Brine &amp; Porter&#x27;s Perfection Apples: hints of Olive, Orange, Cardamom, Apple and Spice. <\/a><\/p><p><a href=\"\/products\/estia-no-7-london-dry-gin-bottle-70cl\" title=\"Gin | Ěstía No.7 London Dry Gin - Bottle 70cl\">A classic but unique, no nonsense Gin.  <\/a><\/p><p><a href=\"\/products\/estia-no-7-london-dry-gin-bottle-70cl\" title=\"Gin | Ěstía No.7 London Dry Gin - Bottle 70cl\"><strong>So smooth you don&#x27;t need tonic. So good you’ll want to share it<\/strong><\/a><\/p><p><a href=\"\/products\/estia-no-7-london-dry-gin-bottle-70cl\" title=\"Gin | Ěstía No.7 London Dry Gin - Bottle 70cl\">Ěstía No.7, The Olive Brine Gin stands out from the crowd. The process of slow distillation and combination of flavours and oils, not least from the olive brine, make for a complex and extremely well rounded gin that is uniquely smooth.<\/a><\/p>",
+          "button_label": "Don't Miss Out - ORDER YOURS NOW",
+          "button_link": "shopify:\/\/products\/estia-no-7-london-dry-gin-bottle-70cl"
+        }
+      },
+      "1590581098478": {
+        "type": "collection-list",
+        "disabled": true,
+        "blocks": {
+          "1590581098478-0": {
+            "type": "collection",
+            "settings": {
+              "collection": "recipe-kits"
+            }
+          },
+          "1590581098478-1": {
+            "type": "collection",
+            "settings": {
+              "collection": "rubs-seasonings"
+            }
+          },
+          "1591703225202": {
+            "type": "collection",
+            "settings": {
+              "collection": "bulk-buy-foods"
+            }
+          }
+        },
+        "block_order": [
+          "1590581098478-0",
+          "1590581098478-1",
+          "1591703225202"
+        ],
+        "settings": {
+          "title": "Check out these delicious recipe kits, rubs & bulk savings",
+          "grid": 3
+        }
+      },
+      "list-collections-1": {
+        "type": "list-collections-1",
+        "blocks": {
+          "1591630494878": {
+            "type": "collection",
+            "settings": {
+              "collection": ""
+            }
+          },
+          "1591630796829": {
+            "type": "collection",
+            "settings": {
+              "collection": "wine-alcohol"
+            }
+          },
+          "1591779582453": {
+            "type": "collection",
+            "settings": {
+              "collection": "gin"
+            }
+          }
+        },
+        "block_order": [
+          "1591630494878",
+          "1591630796829",
+          "1591779582453"
+        ],
+        "settings": {
+          "display_type": "selected",
+          "sort": "alphabetical",
+          "grid": 3
+        }
+      },
+      "1591783116243": {
+        "type": "featured-banner",
+        "disabled": true,
+        "settings": {
+          "title": "",
+          "banner": "shopify:\/\/shop_images\/drinks_are_on_us_2.png",
+          "banner_url": "shopify:\/\/pages\/fathers-day-gifting"
+        }
+      },
+      "1592919864615": {
+        "type": "featured-products",
+        "disabled": true,
+        "settings": {
+          "title": "Great themed bundles - ideal for gifts, thank you's or emergency rations",
+          "home_page_featured_products": "",
+          "home_featured_products_row_num": 2
+        }
+      },
+      "1594891362830": {
+        "type": "featured-banner",
+        "settings": {
+          "title": "Time for a spot of Winter Fire",
+          "banner": "shopify:\/\/shop_images\/WINTER_FIRE_banner.jpg",
+          "banner_url": "https:\/\/www.loafandlarder.com\/collections\/festive-season\/Festive"
+        }
+      },
+      "1600417573819": {
+        "type": "featured-content",
+        "disabled": true,
+        "settings": {
+          "section_title": "Sturminster Newton Deli is Taking a Weekend Break!",
+          "text": "<p>As you might know, the Deli at our main site in Sturminster Newton has been open throughout lockdown.<\/p><p><\/p><p>Our lovely deli-folk have been working their socks off to keep the local community in fine food &amp; drink. On top of that, they&#x27;ve been packing thousands of food parcels to send across the entire British Isles. In fact, they&#x27;ve worked their socks so hard, they&#x27;re starting to wear thin! We took this as a sign that it&#x27;s high time they had a well-earned break.<\/p><p><\/p><p>For this weekend only, <strong>Sturminster Newton Deli will be closed 19th\/20th September.<\/strong> Instead of baking bread, making paninis and serving coffees, between them, Annie and Ben we&#x27;ll be slinging fishing lines, swinging clubs, dining in the sun, and generally having fun with their own families. <\/p><p><\/p><p><strong>Well done and a heart felt THANK YOU.<\/strong><\/p><p><\/p><p>If you still need your fix, you&#x27;ll be pleased to know that <strong>The Potting Shed in Poundbury remains open<\/strong> as usual and the fine folk there are still working their magic! <\/p>",
+          "text_size": "medium"
+        }
+      },
+      "16027761351f9f5458": {
+        "type": "collection-list",
+        "blocks": {
+          "16027761351f9f5458-0": {
+            "type": "collection",
+            "settings": {
+              "collection": "boxsets"
+            }
+          },
+          "16027761351f9f5458-2": {
+            "type": "collection",
+            "settings": {
+              "collection": "olives-et-al-hampers-hatboxes"
+            }
+          },
+          "23751b10-a4c9-4f2a-9538-0dcd40fc9fa0": {
+            "type": "collection",
+            "settings": {
+              "collection": "neat-dirty"
+            }
+          },
+          "16027761351f9f5458-1": {
+            "type": "collection",
+            "settings": {
+              "collection": "the-winter-collection"
+            }
+          }
+        },
+        "block_order": [
+          "16027761351f9f5458-0",
+          "16027761351f9f5458-2",
+          "23751b10-a4c9-4f2a-9538-0dcd40fc9fa0",
+          "16027761351f9f5458-1"
+        ],
+        "settings": {
+          "title": "Gifts & Winter Collections",
+          "grid": 4
+        }
+      },
+      "1602776301aa2bade9": {
+        "type": "featured-products",
+        "settings": {
+          "title": "Shop Best Sellers",
+          "home_page_featured_products": "treat-yourself",
+          "home_featured_products_row_num": 3
+        }
+      },
+      "16027778753d3f2c9f": {
+        "type": "collection-list",
+        "blocks": {
+          "16027778753d3f2c9f-0": {
+            "type": "collection",
+            "settings": {
+              "collection": "olives"
+            }
+          },
+          "16027778753d3f2c9f-1": {
+            "type": "collection",
+            "settings": {
+              "collection": "lapsnacks"
+            }
+          },
+          "05f08cac-7d42-4c1b-a10e-5ee7ec3f680b": {
+            "type": "collection",
+            "settings": {
+              "collection": "dressings-marinades"
+            }
+          },
+          "16027778753d3f2c9f-2": {
+            "type": "collection",
+            "settings": {
+              "collection": "wine-alcohol"
+            }
+          }
+        },
+        "block_order": [
+          "16027778753d3f2c9f-0",
+          "16027778753d3f2c9f-1",
+          "05f08cac-7d42-4c1b-a10e-5ee7ec3f680b",
+          "16027778753d3f2c9f-2"
+        ],
+        "settings": {
+          "title": "Shop Favourites",
+          "grid": 4
+        }
+      },
+      "16040706546de54465": {
+        "type": "newsletter",
+        "settings": {
+          "heading": "Don't miss out on the weekly round-up",
+          "subtext": "<p>Recipes, inspiration, promotions, new products and musings. Directly to your inbox.<\/p>"
+        }
+      }
+    },
+    "content_for_index": [
+      "1600417573819",
+      "1584550436260",
+      "1594891362830",
+      "16027761351f9f5458",
+      "1592919864615",
+      "1591783116243",
+      "1588245340049",
+      "1590509232538",
+      "1590581098478",
+      "1586000141162",
+      "1584534757322",
+      "1588327507140",
+      "16027778753d3f2c9f",
+      "1602776301aa2bade9",
+      "16040706546de54465",
+      "1585238759890",
+      "1586003919985"
+    ]
+  },
+  "presets": {
+    "Light": {
+      "color_body_bg": "#ffffff",
+      "color_body_text": "#333333",
+      "color_primary_color": "#333333",
+      "color_primary_button_text": "#ffffff",
+      "color_sale_badge": "#c8493f",
+      "color_borders": "#e8e8e8",
+      "color_form": "#f4f4f4",
+      "color_image_overlay_text": "#fff",
+      "color_image_overlay": "#333333",
+      "image_overlay_opacity": "25",
+      "type_header_font": "times_new_roman_n4",
+      "type_header_base_size": "28px",
+      "type_base_font": "helvetica_n4",
+      "type_base_size": "15px",
+      "type_button_base_size": "14px",
+      "type_navigation_base_size": "16px",
+      "show_breadcrumb_nav": true,
+      "share_facebook": true,
+      "share_twitter": true,
+      "share_pinterest": true,
+      "sections": {
+        "featured-products": {
+          "type": "featured-products",
+          "settings": {
+            "home_page_featured_products": "frontpage"
+          }
+        },
+        "featured-content": {
+          "type": "featured-content",
+          "settings": {}
+        },
+        "footer": {
+          "type": "footer",
+          "blocks": {
+            "footer-0": {
+              "type": "menu",
+              "settings": {
+                "menu": "footer"
+              }
+            }
+          },
+          "block_order": [
+            "footer-0"
+          ],
+          "settings": {}
+        }
+      },
+      "content_for_index": [
+        "featured-products",
+        "featured-content"
+      ]
+    },
+    "Beauty": {
+      "color_body_bg": "#fafafa",
+      "color_body_text": "#3c4049",
+      "color_primary_color": "#c13121",
+      "color_primary_button_text": "#ffffff",
+      "color_sale_badge": "#c13121",
+      "color_borders": "#d7d8d2",
+      "color_form": "#ffffff",
+      "color_image_overlay_text": "#fff",
+      "color_image_overlay": "#605050",
+      "image_overlay_opacity": 45,
+      "type_header_font": "futura_n4",
+      "type_header_base_size": "32px",
+      "type_base_font": "futura_n4",
+      "type_base_size": "19px",
+      "type_button_base_size": "14px",
+      "type_navigation_base_size": "16px",
+      "show_breadcrumb_nav": true,
+      "share_facebook": true,
+      "share_twitter": true,
+      "share_pinterest": true,
+      "sections": {
+        "header": {
+          "type": "header",
+          "settings": {
+            "show_announcement": true
+          }
+        },
+        "slideshow": {
+          "type": "slideshow",
+          "blocks": {
+            "slideshow-0": {
+              "type": "image",
+              "settings": {
+                "text_alignment": "left"
+              }
+            },
+            "slideshow-1": {
+              "type": "image",
+              "settings": {
+                "text_alignment": "left"
+              }
+            },
+            "slideshow-2": {
+              "type": "image",
+              "settings": {
+                "text_alignment": "left"
+              }
+            }
+          },
+          "block_order": [
+            "slideshow-0",
+            "slideshow-1",
+            "slideshow-2"
+          ],
+          "settings": {
+            "slider_height": "medium",
+            "slider_home_rate": 5
+          }
+        },
+        "advanced-content-0": {
+          "type": "advanced-content",
+          "blocks": {
+            "advanced-content-0-0": {
+              "type": "html",
+              "settings": {
+                "code": "<hr>"
+              }
+            }
+          },
+          "block_order": [
+            "advanced-content-0-0"
+          ],
+          "settings": {
+            "title": ""
+          }
+        },
+        "featured-content": {
+          "type": "featured-content",
+          "settings": {
+            "section_title": "",
+            "text_size": "large"
+          }
+        },
+        "featured-products": {
+          "type": "featured-products",
+          "settings": {
+            "home_page_featured_products": "frontpage"
+          }
+        },
+        "advanced-content-1": {
+          "type": "advanced-content",
+          "blocks": {
+            "advanced-content-1-0": {
+              "type": "html",
+              "settings": {
+                "code": "<hr>"
+              }
+            }
+          },
+          "block_order": [
+            "advanced-content-1-0"
+          ],
+          "settings": {
+            "title": ""
+          }
+        },
+        "featured-row": {
+          "type": "featured-row",
+          "settings": {
+            "layout": "right"
+          }
+        },
+        "product-template": {
+          "type": "product-template",
+          "settings": {
+            "product_quantity_enable": true,
+            "vendor_show": true,
+            "product_description_position": "right",
+            "show_extra_tab": true,
+            "extra_tab_content": "",
+            "product_image_zoom_type": "none",
+            "add_to_cart_width": "full_width"
+          }
+        },
+        "collection-template": {
+          "type": "collection-template",
+          "settings": {
+            "vendor_show": true,
+            "collection_tag_enable": true
+          }
+        },
+        "footer": {
+          "type": "footer",
+          "blocks": {
+            "footer-0": {
+              "type": "menu",
+              "settings": {
+                "menu": "footer"
+              }
+            },
+            "footer-1": {
+              "type": "text",
+              "settings": {}
+            },
+            "footer-2": {
+              "type": "newsletter",
+              "settings": {}
+            }
+          },
+          "block_order": [
+            "footer-0",
+            "footer-1",
+            "footer-2"
+          ],
+          "settings": {}
+        }
+      },
+      "content_for_index": [
+        "slideshow",
+        "advanced-content-0",
+        "featured-content",
+        "featured-products",
+        "advanced-content-1",
+        "featured-row"
+      ]
+    },
+    "Toy": {
+      "color_body_text": "#5b4c45",
+      "color_primary_color": "#0f857c",
+      "color_primary_button_text": "#ffffff",
+      "color_sale_badge": "#a5674d",
+      "color_borders": "#ede8e7",
+      "color_image_overlay": "#0f857c",
+      "image_overlay_opacity": 55,
+      "type_header_font": "swiss_721_rounded_n7",
+      "type_header_base_size": "28px",
+      "type_base_font": "itc_johnston_n5",
+      "type_base_size": "16px",
+      "type_button_base_size": "14px",
+      "type_navigation_base_size": "16px",
+      "show_breadcrumb_nav": true,
+      "share_facebook": true,
+      "share_twitter": true,
+      "share_pinterest": true,
+      "sections": {
+        "header": {
+          "type": "header",
+          "settings": {
+            "show_announcement": true
+          }
+        },
+        "slideshow": {
+          "type": "slideshow",
+          "blocks": {
+            "slideshow-0": {
+              "type": "image",
+              "settings": {}
+            }
+          },
+          "block_order": [
+            "slideshow-0"
+          ],
+          "settings": {
+            "slider_height": "large",
+            "text_size": "large"
+          }
+        },
+        "featured-products": {
+          "type": "featured-products",
+          "settings": {}
+        },
+        "map": {
+          "type": "map",
+          "settings": {}
+        },
+        "product-template": {
+          "type": "product-template",
+          "settings": {
+            "product_quantity_enable": true,
+            "vendor_show": true,
+            "product_description_position": "right",
+            "show_extra_tab": true,
+            "extra_tab_content": "",
+            "product_image_zoom_type": "none",
+            "add_to_cart_width": "regular"
+          }
+        },
+        "collection-template": {
+          "type": "collection-template",
+          "settings": {
+            "vendor_show": false
+          }
+        },
+        "footer": {
+          "type": "footer",
+          "blocks": {
+            "footer-0": {
+              "type": "menu",
+              "settings": {
+                "menu": "footer"
+              }
+            },
+            "footer-1": {
+              "type": "newsletter",
+              "settings": {}
+            }
+          },
+          "block_order": [
+            "footer-0",
+            "footer-1"
+          ],
+          "settings": {}
+        }
+      },
+      "content_for_index": [
+        "slideshow",
+        "featured-products",
+        "map"
+      ]
+    }
+  }
+}

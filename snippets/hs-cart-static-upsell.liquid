@@ -1,0 +1,6 @@
+<script>
+window.HSSLIDECART = window.HSSLIDECART || {};
+window.HSSLIDECART = window.HSSLIDECART || {};
+{% capture hs_static_products %}{% assign hs_all_products = "lapsnack-chilli-puffs-bag-151g|sunshine-rosemary-garlic-olives-jar-250g|citrus-lemon-dill-dressing-marinade-250ml|proper-pesto-alla-genovese-jar-135g|sweet-chilli-harissa-almonds-jar-150g|oea-house-extra-virgin-olive-oil-bottle-500ml" | split: "|" %}[{% for hs_s_prod in hs_all_products %}{% if all_products[hs_s_prod].error %}{% else %}{{ all_products[hs_s_prod] | json }}{% if forloop.last == true %}{% else %},{% endif %}{% endif %}{% endfor %}]{% endcapture %}
+window.HSSLIDECART.upsell = { json:{{ hs_static_products }} }
+</script>
